@@ -1,5 +1,6 @@
 ## Project Structure
 
+```bash
 .
 └── project_root/
     ├── src/
@@ -72,3 +73,4 @@
     ├── .gitignore
     ├── .dockerignore
     └── readme.md
+```
