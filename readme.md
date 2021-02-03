@@ -66,7 +66,7 @@
     │   ├── references/ (contains data dictionary, source mapping etc)
     │   ├── notes/ (contains discussions and meeting minutes)
     │   ├── reports/ (contains pdf, words, html report etc)
-    │   └── plots/ (contains publication quality images and charts for the reports)
+    │   └── images/ (contains publication quality images and charts for the reports)
     ├── environment.yml/requirements.txt
     ├── Dockerfile
     ├── config.yml/config.txt (no authentication params)
